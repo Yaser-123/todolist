@@ -43,8 +43,9 @@ Check out a demo of Todolist in action:
 
 ![Dashboard Overview](Images/img-1.png)
 ---
-![Dashboard Overview](Images/img-2.png)
-
+<p align="center">
+  <img src="Images/img-2.png"/>
+</p>
 ---
 
 ## 🤝 Contributing
